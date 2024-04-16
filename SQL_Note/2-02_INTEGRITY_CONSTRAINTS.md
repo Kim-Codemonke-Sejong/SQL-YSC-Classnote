@@ -4,11 +4,11 @@
 
 > 키는 릴레이션에서 **특정 투플을 식별할 때 사용하는 속성(의 집합)**이다.
 
-![키의 예시를 보여주는 표](SQL_picture/KEY.png)
+![키의 예시를 보여주는 표](/SQL_picture/KEY.png)
 
 > 키는 **릴레이션끼리의 관계를 맺는 곳**에서도 사용된다.
 
-![키의 관계를 보여주는 표](SQL_picture/KEY_RELATION.png)
+![키의 관계를 보여주는 표](/SQL_picture/KEY_RELATION.png)
 
 ## 키의 종류
 

@@ -14,7 +14,7 @@
 
 ## 관계형 데이터베이스의 예
 
-![데이터베이스의 예시를 보여주는 표](SQL_picture/TABLE.png)
+![데이터베이스의 예시를 보여주는 표](/SQL_picture/TABLE.png)
 
 
 
