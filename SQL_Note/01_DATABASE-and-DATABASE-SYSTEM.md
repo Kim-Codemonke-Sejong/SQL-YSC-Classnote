@@ -45,7 +45,7 @@
 ## 데이터베이스 시스템의 구성
 **데이터베이스 시스템의 구성요소**
 
-- **DBMS**_(Database Management System)_    =>  데이터베이스를 관리하는 소프트웨어
+- **DBMS**<sub>_(Database Management System)_</sub>    =>  데이터베이스를 관리하는 소프트웨어
 
 - **데이터베이스**                          =>  통합된 데이터의 집합
 
