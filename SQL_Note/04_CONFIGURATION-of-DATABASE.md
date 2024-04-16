@@ -22,3 +22,7 @@
 - 데이터 제어어<sub>_(DCL)_</sub> =>  데이터의 사용권한을 관리함
 
 > _GRENT, REVOKE_
+
+**SQL의 핵심**
+
+데이터 조작어 중 ```SELECT - FROM - WHERE``` 과 같은 질의문이다.
