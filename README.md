@@ -10,7 +10,7 @@ GITHUB 상단의 SQL\_Note 폴더를 클릭하면 내용들을 볼 수 있음.
 ## 목차
 1. 데이터베이스 시스템
 
-- [데이터베이스와 데이터베이스 시스템](SQL_Note/01_DATABASE-and-DATABASE-SYSTEM.md)
+- [데이터베이스와 데이터베이스 시스템](SQL_Note/1-01_DATABASE-and-DATABASE-SYSTEM.md)
 
 -  ~~데이터베이스 시스템의 발전~~
 
@@ -22,4 +22,4 @@ GITHUB 상단의 SQL\_Note 폴더를 클릭하면 내용들을 볼 수 있음.
 
 - [관계 데이터 모델의 개념](SQL_Note/2-01_CONCEPT-of-RELATIONSHIP-DATA-MODEL.md)
 
-- [무결성 제약조건](SQL_Note/2-02_INTEGRITY_CONSTRAINTS.md)
+-2 [무결성 제약조건](SQL_Note/2-02_INTEGRITY_CONSTRAINTS.md)
