@@ -1,8 +1,13 @@
+--이 스크립트는 
+--'Book', 'Customer', 'Imported_book', 'Orders' 테이블이 들어있는
+--'Madang' 데이터베이스를 생성한다.
+
 CREATE DATABASE IF NOT EXISTS Madang;
 -- GO
 
 -- GO 명령어는 T-SQL 문은 아니지만 현재까지 명령어를 SQL Server에 보내서 실행시키는 역할을 한다. 
--- 즉 GO 명령어는 명령어를 묶어서 배치로 서버에 보내는 역할을 한다. 
+-- 즉 GO 명령어는 명령어를 묶어서 배치로 서버에 보내는 역할을 한다.
+--만약 해당 명령문이 있는 체로 mySQL 등 다른 SQL 서버에서 실행된다면, 컴파일 오류를 발생시킨다.
 
 -- Book, Customer, Orders 테이블 생성
 USE Madang;
